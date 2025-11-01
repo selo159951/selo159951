@@ -48,7 +48,7 @@ Detaylı listeye selimoguz.com.tr adresinden ulaşabilirsin.
 
 ---
 
-## 🇬🇧 English Version  
+## EN English Version  
 
 # 👋 Hello, I'm Selim OĞUZ  
 
