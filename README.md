@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Selim OĞUZ
 
 Lise öğrencisiyim, yazılım geliştirme tutkunu biriyim.  
-Teknopark Ankara İvedik OSB MTAL Bilişim Teknolojileri bölümünde okuyorum. :contentReference[oaicite:0]{index=0}  
+Teknopark Ankara İvedik OSB MTAL Bilişim Teknolojileri bölümünde okuyorum. 
 Bu GitHub hesabı, projelerimi, bilgi ve becerilerimi paylaşmak, geliştirmek ve ilham almak için var.
 
 ---
