@@ -1,129 +1,98 @@
-# 👋 Merhaba, ben Selim OĞUZ
+# 👋 Merhaba, ben Selim OĞUZ  
 
-Lise öğrencisiyim, yazılım geliştirme tutkunu biriyim.  
-Teknopark Ankara İvedik OSB MTAL Bilişim Teknolojileri bölümünde okuyorum. 
-Bu GitHub hesabı, projelerimi, bilgi ve becerilerimi paylaşmak, geliştirmek ve ilham almak için var.
-
----
-
-## 🎯 Hakkımda
-
-- Yeni teknolojileri öğrenmeye hevesliyim, yazılım dünyasında kendimi geliştirmeyi severim.  
-- Hem teorik temeli hem de pratik uygulamayı projelerimde birleştirmeye çalışırım.  
-- Açık kaynak katkılarına, takım projelerine ve paylaşmaya inanırım.
+Lise öğrencisiyim ve yazılım geliştirme tutkusuyla yaşıyorum.  
+Teknopark Ankara İvedik OSB MTAL Bilişim Teknolojileri bölümünde okuyorum.  
+Bu GitHub profilinde hem kendi projelerimi hem de öğrendiklerimi paylaşıyorum.  
 
 ---
 
-## 🛠️ Yetenekler & Teknolojiler
-
-- **C# / .NET** — Windows Forms programlama :contentReference[oaicite:1]{index=1}  
-- **Python** — Genel amaçlı programlama :contentReference[oaicite:2]{index=2}  
-- **HTML / CSS / JavaScript** — Web geliştirme :contentReference[oaicite:3]{index=3}  
-- **C / C++** — Donanım, devre kartı programlama :contentReference[oaicite:4]{index=4}  
-- **C# (Unity / MonoBehaviour)** — Oyun geliştirme :contentReference[oaicite:5]{index=5}  
-- **Kotlin** — Android mobil uygulama geliştirme :contentReference[oaicite:6]{index=6}  
-- **Delphi** — Multi-platform uygulama geliştirme :contentReference[oaicite:7]{index=7}  
-- **Fusion 360** — 3B modelleme & tasarım :contentReference[oaicite:8]{index=8}  
-- **Blueprint / Unreal Engine** — Oyun / etkileşimsel içerikler :contentReference[oaicite:9]{index=9}  
+## 🎯 Hakkımda  
+Yeni teknolojileri keşfetmekten ve yazılım alanında kendimi geliştirmekten keyif alıyorum.  
+Projelerimde teorik bilgiyi pratik uygulamayla birleştirmeye çalışıyorum.  
+Takım çalışmasına, açık kaynak katkılarına ve bilgi paylaşımına inanıyorum.  
 
 ---
 
-## 🚀 Projelerimden Bazıları
-
-- **Tekno1 Roket Takımı** — Teknofest 2025 yarışmasında roket ve yer istasyonu yazılımı geliştirme sorumluluğu. :contentReference[oaicite:10]{index=10}  
-- **KafeSharp (Kafe Sipariş Otomasyonu)** — Kafeler ve küçük işletmeler için sipariş & yönetim sistemi (geliştirme aşamasında). :contentReference[oaicite:11]{index=11}  
+## 🛠️ Yetenekler  
+C#, .NET, Python, HTML, CSS, JavaScript, C, C++, Kotlin, Delphi, Fusion 360, Unity, Unreal Engine  
 
 ---
 
-## 📄 Sertifikalar & Eğitim
-
-Projelerimin yanı sıra çeşitli eğitimler ve sertifikalarla bilgi tabanımı destekliyorum.  
-Sertifikalarım web sitemin “Sertifikalar” bölümünde görüntülenebilir. :contentReference[oaicite:12]{index=12}  
-
----
-
-## 📫 İletişim
-
-- Web Sitesi: [selimoguz.com.tr](https://www.selimoguz.com.tr) :contentReference[oaicite:13]{index=13}  
-- LinkedIn: [Selim OĞUZ](https://www.linkedin.com/in/selim-oguz) :contentReference[oaicite:14]{index=14}  
-- E-posta: (Buraya e-postanı yazabilirsin)  
+## 🚀 Projeler  
+**Arabam Hakkında** – Araç sahiplerine teknik bilgiler sunan web projesi  
+**KafeSharp** – Kafeler için sipariş ve stok yönetimi otomasyonu  
+**Tekno1 Roket Takımı** – Teknofest 2025 roket yarışmasında yer istasyonu yazılımı geliştirme  
 
 ---
 
-## 🌱 Hedeflerim / Yol Haritam
-
-- Açık kaynak topluluklarında aktif olarak yer almak  
-- Web ve mobil uygulamalar geliştirmek  
-- Gömülü sistem, donanım ve elektronik alanlarına yönelmek  
-- Yapay zeka / makine öğrenimi alanında projeler üretmek  
-
-> “Kod; düşünceleri somut hâle getirmenin sanatıdır.”  
-> — Selim OĞUZ  
-
-
-
-
-## EN ##
-
-
-# 👋 Hello, I’m Selim OĞUZ
-
-I’m a high school student passionate about software development.  
-I study in the Information Technologies department at Teknopark Ankara İvedik OSB MTAL. :contentReference[oaicite:15]{index=15}  
-This GitHub profile is my space to share projects, skills, learnings, and growth.
+## 📄 Sertifikalar  
+Katıldığım eğitimler ve sertifikalarla bilgi birikimimi destekliyorum.  
+Detaylı listeye selimoguz.com.tr adresinden ulaşabilirsin.  
 
 ---
 
-## 🎯 About Me
-
-- I’m eager to learn new technologies and constantly improve myself in software.  
-- I aim to combine strong theoretical understanding with practical applications in my projects.  
-- I believe in contributing to open source, collaborating in teams, and knowledge sharing.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **C# / .NET** — Windows Forms applications :contentReference[oaicite:16]{index=16}  
-- **Python** — General-purpose programming :contentReference[oaicite:17]{index=17}  
-- **HTML / CSS / JavaScript** — Web development :contentReference[oaicite:18]{index=18}  
-- **C / C++** — Hardware, microcontroller / circuit programming :contentReference[oaicite:19]{index=19}  
-- **C# (Unity / MonoBehaviour)** — Game development :contentReference[oaicite:20]{index=20}  
-- **Kotlin** — Android mobile development :contentReference[oaicite:21]{index=21}  
-- **Delphi** — Cross-platform application development :contentReference[oaicite:22]{index=22}  
-- **Fusion 360** — 3D modeling & design :contentReference[oaicite:23]{index=23}  
-- **Blueprint / Unreal Engine** — Game / interactive content development :contentReference[oaicite:24]{index=24}  
+## 📫 İletişim  
+🌐 Web: [selimoguz.com.tr](https://selimoguz.com.tr)  
+💼 LinkedIn: [linkedin.com/in/selim-oguz](https://www.linkedin.com/in/selim-oguz)  
+✉️ E-posta: [admin@selimoguz.com.tr](admin@selimoguz.com.tr)
 
 ---
 
-## 🚀 Selected Projects
+## 🌱 Hedeflerim  
+• Açık kaynak projelere katkı vermek  
+• Web ve mobil uygulamalar geliştirmek  
+• Donanım ve gömülü sistem alanında ilerlemek  
+• Yapay zeka ve makine öğrenimiyle projeler üretmek  
 
-- **Tekno1 Rocket Team** — Responsible for ground station software and rocket development in Teknofest 2025. :contentReference[oaicite:25]{index=25}  
-- **KafeSharp (Cafe Order Automation)** — A management and order system for small cafés and shops (under development). :contentReference[oaicite:26]{index=26}  
-
----
-
-## 📄 Certifications & Education
-
-Alongside my projects, I pursue various courses and certifications to strengthen my knowledge.  
-You can view my certificates in the “Certifications” section on my website. :contentReference[oaicite:27]{index=27}  
+> “Kod, düşünceleri gerçeğe dönüştürmenin sanatıdır.” – Selim OĞUZ  
 
 ---
 
-## 📫 Contact
+## 🇬🇧 English Version  
 
-- Website: [selimoguz.com.tr](https://www.selimoguz.com.tr) :contentReference[oaicite:28]{index=28}  
-- LinkedIn: [Selim OĞUZ](https://www.linkedin.com/in/selim-oguz) :contentReference[oaicite:29]{index=29}  
-- Email: (You can insert your email address here)  
+# 👋 Hello, I'm Selim OĞUZ  
+
+I'm a high school student passionate about software development.  
+Currently studying Information Technologies at Teknopark Ankara İvedik OSB MTAL.  
+This GitHub profile is where I share my projects and what I’ve learned along the way.  
 
 ---
 
-## 🌱 Goals & Roadmap
+## 🎯 About Me  
+I enjoy exploring new technologies and improving my programming skills.  
+I combine theory with practice in my projects and love teamwork and open-source contributions.  
 
-- Be actively involved in open source communities  
-- Develop web and mobile applications  
-- Explore embedded systems, hardware & electronics  
-- Create projects in AI / machine learning  
+---
 
-> “Code is the art of making thoughts concrete.”  
-> — Selim OĞUZ  
+## 🛠️ Skills  
+C#, .NET, Python, HTML, CSS, JavaScript, C, C++, Kotlin, Delphi, Fusion 360, Unity, Unreal Engine  
+
+---
+
+## 🚀 Projects  
+**Arabam Hakkında** – A web project that provides car-related technical info  
+**KafeSharp** – Cafe order and stock management automation  
+**Tekno1 Rocket Team** – Ground station software development for Teknofest 2025 rocket competition  
+
+---
+
+## 📄 Certifications  
+I strengthen my skills through various online courses and certifications.  
+You can find the full list on my website: [selimoguz.com.tr](https://selimoguz.com.tr)  
+
+---
+
+## 📫 Contact  
+🌐 Website: [selimoguz.com.tr](https://selimoguz.com.tr)  
+💼 LinkedIn: [linkedin.com/in/selim-oguz](https://www.linkedin.com/in/selim-oguz)  
+✉️ Email: [admin@selimoguz.com.tr](admin@selimoguz.com.tr)
+
+---
+
+## 🌱 Goals  
+• Contribute to open source  
+• Develop web and mobile apps  
+• Learn about embedded systems and electronics  
+• Build projects with AI and machine learning  
+
+> “Code is the art of turning thoughts into reality.” – Selim OĞUZ  
