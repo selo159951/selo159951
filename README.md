@@ -44,7 +44,6 @@ Detaylı listeye selimoguz.com.tr adresinden ulaşabilirsin.
 • Donanım ve gömülü sistem alanında ilerlemek  
 • Yapay zeka ve makine öğrenimiyle projeler üretmek  
 
-> “Kod, düşünceleri gerçeğe dönüştürmenin sanatıdır.” – Selim OĞUZ  
 
 ---
 
@@ -95,4 +94,3 @@ You can find the full list on my website: [selimoguz.com.tr](https://selimoguz.c
 • Learn about embedded systems and electronics  
 • Build projects with AI and machine learning  
 
-> “Code is the art of turning thoughts into reality.” – Selim OĞUZ  
