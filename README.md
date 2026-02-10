@@ -34,8 +34,6 @@ Detaylı listeye selimoguz.com.tr adresinden ulaşabilirsin.
 ## 📫 İletişim  
 🌐 Web: [selimoguz.com.tr](https://selimoguz.com.tr)  
 💼 LinkedIn: [linkedin.com/in/selim-oguz](https://www.linkedin.com/in/selim-oguz)  
-✉️ E-posta: (buraya e-posta adresin yazılabilir)
-
 ---
 
 ## 🌱 Hedeflerim  
@@ -84,8 +82,6 @@ You can find the full list on my website: [selimoguz.com.tr](https://selimoguz.c
 ## 📫 Contact  
 🌐 Website: [selimoguz.com.tr](https://selimoguz.com.tr)  
 💼 LinkedIn: [linkedin.com/in/selim-oguz](https://www.linkedin.com/in/selim-oguz)  
-✉️ Email: (you can add yours here)
-
 ---
 
 ## 🌱 Goals  
