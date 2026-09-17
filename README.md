@@ -26,5 +26,5 @@ Software Developer focused on AI Integration, Mobile Applications & System Autom
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selo159951&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=selo159951&theme=tokyonight&margin-w=15&row=1" width="100%" />
 </p>
