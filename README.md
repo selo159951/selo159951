@@ -26,6 +26,6 @@ Software Developer focused on AI Integration, Mobile Applications & System Autom
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=selo159951&theme=radical" alt="Selim's Streak" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selo159951&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selo159951&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selo159951&layout=compact&theme=tokyonight&border_radius=10" width="49%" />
 </p>
