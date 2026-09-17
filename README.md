@@ -28,12 +28,14 @@ Software Developer focused on AI Integration, Mobile Applications & System Autom
 
 ### 📊 GitHub Overview
 
+### 📊 GitHub Overview
+
 <p align="center">
-  <!-- Çalışan Kupa / Başarı Kartı Alternatifi -->
+  <!-- Çalışan Üst Grafik -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selo159951&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Çalışan GitHub Repo Stats Alternatifi -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=selo159951&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
+  <!-- Asla Patlamayan %100 Garantili Diller Kartı -->
+  <img src="https://github-readme-stats.quickm.workers.dev/api/top-langs/?username=selo159951&layout=compact&theme=tokyonight&border_radius=10" width="60%" />
 </p>
